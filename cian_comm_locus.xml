@@ -1,0 +1,4470 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed>
+  <feed_version>2</feed_version>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>1</FloorNumber>
+    <ExternalId>f659e6eef1d647efb331620194fa207f27f4f3c9</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>245.66</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/b84198f46d9ac87891b4badc9ccdd49e.jpg?e652dbc90768cdc7c5e8f498539ce1e9</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>4.20</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>110547000</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>7</FloorNumber>
+    <ExternalId>a1fb1e8d2fd99c1c32cb674c2d93b02f033364df</ExternalId>
+    <Description>Продается помещение в бизнес-центре Locus by Akvilon рядом с метро "Фрунзенская" — статусный офис в центре города для вашего бизнеса! 
+
+На первых этажах бизнес-центра LOCUS by Akvilon располагаются 3 коммерческих помещения. 
+
+
+•	БЦ класса А+
+•	8-этажное здание
+•	Общая площадь БЦ Locus by Akvilon  – 6 966,2 м²
+•	Строительство должно завершиться к IV кварталу 2026 года.
+•	Дизайн фасада разработан архитектурной студией «Intercolumnium»
+
+Характеристики помещения:
+
+•	Высота помещений 4,2 метра
+•	Панорамное остекление 
+•	Площадь от 109 до 246 м2
+•	Возможна реализация как кабинетной, так и открытой планировки
+•	Качественные системы вентиляции и кондиционирования
+•	Помещения с отделкой Shell&amp;Core (свободная планировка)
+
+Локация 
+
+Сформированный и полностью благоустроенный жилой квартал, населенный платежеспособной аудиторией, создает максимально привлекательное и перспективное торговое пространство.
+
+Бизнес-центр расположен на пересечении двух крупных транспортных артерий города — Московского проспекта и Обводного канала. 
+Здание расположено в двух минутах от метро Фрунзенская и десяти минутах до исторического центра Санкт-Петербурга. 
+До Московского вокзала и аэропорта Пулково можно добраться за 20 минут 
+
+Не упустите свою возможность! 
+
+Оперативные показы по запросу – звоните прямо сейчас!</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>464.70</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/f61106f9156bc07bdd3e67cb2323a09b.jpg?769ee9b5b96f1f4bddfe4a778cb8f70b</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.60</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>199820884</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>8</FloorNumber>
+    <ExternalId>6168cad29ac04356ae10676b919574d19e2ad3db</ExternalId>
+    <Description>Продается помещение в бизнес-центре Locus by Akvilon рядом с метро "Фрунзенская" — статусный офис в центре города для вашего бизнеса! 
+
+На первых этажах бизнес-центра LOCUS by Akvilon располагаются 3 коммерческих помещения. 
+
+
+•	БЦ класса А+
+•	8-этажное здание
+•	Общая площадь БЦ Locus by Akvilon  – 6 966,2 м²
+•	Строительство должно завершиться к IV кварталу 2026 года.
+•	Дизайн фасада разработан архитектурной студией «Intercolumnium»
+
+Характеристики помещения:
+
+•	Высота помещений 4,2 метра
+•	Панорамное остекление 
+•	Площадь от 109 до 246 м2
+•	Возможна реализация как кабинетной, так и открытой планировки
+•	Качественные системы вентиляции и кондиционирования
+•	Помещения с отделкой Shell&amp;Core (свободная планировка)
+
+Локация 
+
+Сформированный и полностью благоустроенный жилой квартал, населенный платежеспособной аудиторией, создает максимально привлекательное и перспективное торговое пространство.
+
+Бизнес-центр расположен на пересечении двух крупных транспортных артерий города — Московского проспекта и Обводного канала. 
+Здание расположено в двух минутах от метро Фрунзенская и десяти минутах до исторического центра Санкт-Петербурга. 
+До Московского вокзала и аэропорта Пулково можно добраться за 20 минут 
+
+Не упустите свою возможность! 
+
+Оперативные показы по запросу – звоните прямо сейчас!</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>455.89</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/51916128b8ebcc35a0588fc4dfb3ab98.jpg?646e485d94dbe1b5f959e59330e855c6</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.60</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>209470500</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>1</FloorNumber>
+    <ExternalId>f525a27db53528a4b136c8a0922c78d1880e582a</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>109.48</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/a0d06a839d465fc67362ce1a5c7df962.jpg?fd992fb509f1ab0fcec936c40e408e0c</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>4.20</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>47076373</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>1</FloorNumber>
+    <ExternalId>7e5c9ef0821db85741800e21bf860dee10fb85fd</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>165.99</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/ad7b8730d533aa7305614366b9e5a2b9.jpg?b2f35c564eecdd8cdabca7687a95a0c1</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>4.20</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>75525450</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>2</FloorNumber>
+    <ExternalId>e02f504e43f3a65b278953c404d83ac8d6257578</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>162.19</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/eb91d1740a14044def99d120b2dd65e9.jpg?b0154dc31ce76eeed86ba736d90fad57</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>58609386</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>2</FloorNumber>
+    <ExternalId>c3a629df9da35cae6cc45ea0797503477613fc33</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>36.69</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/75856f6f731dd0791f6be97bb356ba72.jpg?f5b9bde9325475b5dab07ed8c0f83308</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>22296325</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>2</FloorNumber>
+    <ExternalId>bb43df6019fc2e3d477df0fab76577e1cf7043ef</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>82.43</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/554b2d3b21aedea16fc75e07e1090933.jpg?f6b3fdb05eab41e083daade34ca8a928</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>30402739</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>2</FloorNumber>
+    <ExternalId>8e87f98660d2f7c20c2cd8bc9126be57aac06b43</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>93.69</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/d330c3124ec060b615f015062d3b01c4.jpg?d15de4729c111de2b704ed913567b8d4</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>34844076</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>2</FloorNumber>
+    <ExternalId>2462c6fe5e13ca590f757ea59cc85eda9fbc66c3</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>59.25</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/c3daa56bba7a2d66e77ae049a383bd30.jpg?9b8dc02733f1cf221c9254e9f919158c</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>22835146</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>2</FloorNumber>
+    <ExternalId>fb5d266f54e9e07d32d7a7e5c33e710349c74c67</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>62.64</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/1bc47ba6b9070490c974e44930d7c396.jpg?104697200a2bfd031c55695886ca1941</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>23440577</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>2</FloorNumber>
+    <ExternalId>eba9279d56333e8772c96d495ace5851ae4f492f</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>41.85</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/6a27723d31a8ee0258e68b3543e24502.jpg?34ddb32bda172a4b0c76ebdfdf051167</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>20206184</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>3</FloorNumber>
+    <ExternalId>91aebb1999c928ffc9664fcb317e75cc610d1b4a</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>104.66</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/c7112ae4b5efa4043a7041f75661ce2a.jpg?1541e9be878092aa3ceed7e0697e9e73</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>39459645</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>3</FloorNumber>
+    <ExternalId>be051d269687614cf1ea5956c3d59166b60db58d</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>63.86</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/cbd2dee1c12ffd9700fadf7528dab763.jpg?cc04f8c4f7e50f94406856d0f7b5a5a9</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>24572118</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>3</FloorNumber>
+    <ExternalId>b9e1e50c0cc38f31ee127cc09adacb89d31bd65b</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>59.05</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/c904d97003a63303dfeaf9bd04393f38.jpg?2d53b666aab03e6f2059d679a9e437de</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>22772645</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>3</FloorNumber>
+    <ExternalId>f9b385830d32774c261b9acd18753bb5cd8c7c0e</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>102.48</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/a250590a1275c9c18e8c9ac92f6e2469.jpg?522b1194b01dceda27567666be9ec91b</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>38802237</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>3</FloorNumber>
+    <ExternalId>f4b4083fab3e7f130b1e791e51bbcc5a861e4ce2</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>93.69</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/5bd99f7711b839c7b9bfcf6e82d5a4e6.jpg?1319751e7b89049c7fc389f3987015bd</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>35623974</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>3</FloorNumber>
+    <ExternalId>f361b9b211ab20cebf11bde55ba40079bd036768</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>59.25</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/b3188278a729917ae41e7f9821c64d82.jpg?5398d9806d32ac59c64976d8bf16ad7e</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>23323226</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>3</FloorNumber>
+    <ExternalId>aa1e6322c24c4d7b6daf038c9173fae0ba932385</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>62.64</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/a7e8deb4562c1baf489f6139199bd380.jpg?3d5c853fbb4b1c5aa55fa49906a53a7d</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>23941713</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>4</FloorNumber>
+    <ExternalId>88da20dace27e6d2a4e5b2ecc501dcb6d40389c6</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>104.66</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/d4c1a278a4919dd653cd04e43523db9b.jpg?2e457765f705dd9689cfc9d049bd60e0</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>40507445</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>4</FloorNumber>
+    <ExternalId>79da3c8c0ec6faf9423dbe6cf3d96f6e2bfd65bb</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>63.86</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/1c8bf7ef7b2832b3b0a4825a461ea572.jpg?5cc1ef703e1843ed6d61c3d845645e3b</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>25215618</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>4</FloorNumber>
+    <ExternalId>2e91e460928adce5e8491695631397448f03554e</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>59.05</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/8457fe64fd93582d11eddd23ab8079a8.jpg?ce3ad37cd97cad4042388fa0b2907f99</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>23368045</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>4</FloorNumber>
+    <ExternalId>520162b065bcbaa2f5a17ed4bc2bff0c69ec8a81</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>102.48</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/d165bbec92f653a6b85ce248d1d024ce.jpg?bcaa6786848aa6815153dcd8cf74f878</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>39831937</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>4</FloorNumber>
+    <ExternalId>9e11da7814a75e42a3a01e78957e03f6aa6b7914</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>93.69</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/26bc3d498bc9c1b1b7082ca67a8fe3d7.jpg?0fc5efbd9b75842d7ae9dea718966531</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>36566474</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>4</FloorNumber>
+    <ExternalId>096d7600f11d770404b9f027175bfe7d1dd397c2</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>59.25</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/100f4b4bf4b6508988f54a71b5bd27c5.jpg?53cfe092445df3c15c421889bb33cda8</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>23933326</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>4</FloorNumber>
+    <ExternalId>a043e58b3e0fad49b3f722f0534d0db1bcecf812</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>62.64</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/a81a7944f98cdc278341c2039acdcfbd.jpg?f4470012d1f373edf1aca57f43622dd5</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>24568097</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>5</FloorNumber>
+    <ExternalId>abf3ca35c2391ddda3ce1213ebc21e5cf3f1365d</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>235.10</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/354417c4c734241ffc7987083198259d.jpg?72c17d98625e6edb2346868ec061238f</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>92587900</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>5</FloorNumber>
+    <ExternalId>7b9f9ab72cbb51a61d633033b85f105cbc256780</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>191.48</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/295b293543f7be7acf428930aca65916.jpg?94f100d85b4c18c7a4ae6db0559f6898</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>76649781</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>5</FloorNumber>
+    <ExternalId>6755914cd8f76a90812e319b1fa413cd08123a55</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>122.60</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/fe4510af10b45f13eda7858afa868164.jpg?53bcb9df972e7eb561cfe7cb20edbb83</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>50196182</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>6</FloorNumber>
+    <ExternalId>95c5fca91040662b6a19509e3e23b53edd83de4a</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>235.10</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/a3fd70b7694fcac14c9d28850fa24152.jpg?6b3bc2b7490680095072bed36b9d3a50</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>94940000</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>6</FloorNumber>
+    <ExternalId>07a2f824529d9f6a45f78a493ec1637465323ec7</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>191.48</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/538e7f0144a3a93a6483b7ec68a346e9.jpg?9b05ac0b68ce7ced75b22de7380ccc6f</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>78569581</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>6</FloorNumber>
+    <ExternalId>0d2e6ad20cfc2bac78b609d7316343ea271c5a90</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>122.60</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/d90ddf3a10d18e40c80089cde7b26884.jpg?e493220bebfb267eda796f060d8a9966</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>51425782</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>1</FloorNumber>
+    <ExternalId>aa5ca7fee2ace439fa799e55ea21295b50269593</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>521.13</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/7cfc124125313e4ad1a24c42cb89bd10.jpg?0659e3e53b5051d5e12310e1a67e1002</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>4.20</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>233148823</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>0</FloorNumber>
+    <ExternalId>36eb7665b2de744452e5399a49312c5abdad3376</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>6966.19</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/c9d6a4bd85661f648e5608a1bcfa739b.jpg?f783ed16111bad01c74b3137eb1cb85d</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>4.20</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>1652637217</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>2</FloorNumber>
+    <ExternalId>bcb4aab39a79e857b8d11c4e0773485ac46cc7dd</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>631.25</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/5f7952f8ec9e0125a52078d677d13a75.jpg?d06f4f1e2ca323ab9765278da05a5efc</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>213603866</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>3</FloorNumber>
+    <ExternalId>a90acce16f54fa4714929846ea236c5e951355fb</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>632.56</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/724e66a97d0c1031ae7b842fff6a3581.jpg?47df45a83e898ce64d80fdced889ea0a</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>202240691</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>4</FloorNumber>
+    <ExternalId>8acb2f989f054dae029edaf22e2a1cb468afd78e</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>632.56</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/8a390f1ef4b1016873590a2571bc6798.jpg?7e72c305dcb89ff4834c4a54a798c803</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>207571214</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>5</FloorNumber>
+    <ExternalId>c6f4abbe53b2c4b98baefb93e913f0f24d10fc76</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>632.01</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/98f9c5215d017309ed2e229329ee2580.jpg?0ee4cacc39e633bcd48f0719eb62919d</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>212850847</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>officeSale</Category>
+    <JKSchema>
+      <Id>31471</Id>
+      <Name>БЦ LOCUS by Akvilon</Name>
+      <House>
+        <Id>84770</Id>
+        <Name>БЦ LOCUS by Akvilon</Name>
+        <Flat>
+          <FlatNumber>0</FlatNumber>
+          <FlatType>Офис</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <FloorNumber>6</FloorNumber>
+    <ExternalId>b109002a02a541a6ceba5b902064587b322b9653</ExternalId>
+    <Description>Бизнес-центр премиум класса LOCUS by Akvilon — это новое место на карте делового Петербурга. 
+
+Новая точка, в которой сходятся все линии роста — близость к центру города, развитая инфраструктура, удобное расположение у метро на пересечении двух важных магистралей Северной столицы. 
+
+Характеристики:
+
+Класс: A+
+Срок сдачи: 4 кв. 2026 г.
+Общая площадь здания: 6 966 м2
+Этажность: 6-8
+Количество офисов: 29
+Подземный паркинг: 30 мест
+Архитектурная студия: Intercolumnium
+
+Локация:
+
+Бизнес-центр LOCUS by Akvilon находится на пересечении крупных магистралей Петербурга и поблизости от станции метро «Фрунзенская». Это удобная локация, которая позволяет оставаться в центре деловой жизни и быстро добираться до главных транспортных хабов города — аэропорта Пулково и Московского вокзала.
+
+Статусный офис в центре города и панорамные виды на Обводный канал позволяют увидеть перспективы, дают свободу решений и выбора. 
+
+Современный взгляд на архитектуру, инженерные системы и безопасность предлагают все условия для развития бизнеса и выгодных инвестиций.</Description>
+    <Address>г. Санкт-Петербург, пр-кт Московский, д 65, литера Э</Address>
+    <Coordinates>
+      <Lat>59.906919</Lat>
+      <Lng>30.313829</Lng>
+    </Coordinates>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>7</CountryCode>
+        <Number>8122202937</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>632.01</TotalArea>
+    <LayoutPhoto>
+      <FullUrl>https://ai.allio.agency/img/bb8d/5cffc07c32e13d0623245ed2ff539dcf.jpg?78967c3fdd2b092ca8b30158430c46fa</FullUrl>
+      <IsDefault>0</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/5366917a0da8686a82437ac25508e378.jpg?974ac79fc0aed0c49b0e4255268e2ddf</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/e5d4450d755b3cd079fbc74fab6e280e.jpg?e0a376d1e4bc03a9d99467f051efc477</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/949f7f38b6f9a0009ead9d41c18378b3.jpg?ddcaec0e25eaf88733763b3676028711</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/7a939f9958652afac3bf9a3987db21a5.jpg?60dba92d710bc02fc7faa72bf377da09</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/0ad643fbf19f9ddbde98ed45b4c4ca10.png?95d6e304c13c34888cee858870f61905</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/421a26a2112e1960bd81366b9e8e805e.jpg?9faae060e6bb37f96f7ba1236331b78e</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/9822731cae8a0fc63e725cd2541e7ff1.jpg?0e7624aafe44346d40a3df61ebaf30db</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://ai.allio.agency/img/f551/03705532815d731b929b0d4a44f67ba8.jpg?fc5a20290a665d71143e92e0429dd929</FullUrl>
+        <IsDefault>0</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+      <FloorsCount>8</FloorsCount>
+      <MaterialType>monolith</MaterialType>
+      <CeilingHeight>3.30</CeilingHeight>
+      <Deadline>
+        <Quarter>fourth</Quarter>
+        <Year>2026</Year>
+        <IsComplete>0</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>paid</ServicesEnum>
+          </Services>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <VatType>included</VatType>
+      <Price>218187302</Price>
+      <Currency>rur</Currency>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>fz214</SaleType>
+    </BargainTerms>
+  </object>
+</feed>
