@@ -6,7 +6,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>5</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -59,7 +59,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>5</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -112,7 +112,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>5</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -165,7 +165,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>5</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -218,7 +218,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>5</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -271,7 +271,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>5</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -324,7 +324,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>5</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -377,7 +377,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>5</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -430,7 +430,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>5</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -483,7 +483,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>5</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -536,7 +536,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>5</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -589,7 +589,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>5</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -642,7 +642,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>5</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -695,7 +695,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>5</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -748,7 +748,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>6</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -801,7 +801,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>6</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -854,7 +854,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>6</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -907,7 +907,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>6</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -960,7 +960,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>6</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -1013,7 +1013,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>6</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -1066,7 +1066,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>6</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -1119,7 +1119,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>6</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -1172,7 +1172,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>6</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -1225,7 +1225,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>6</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -1278,7 +1278,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>6</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -1331,7 +1331,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>6</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -1384,7 +1384,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>6</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -1437,7 +1437,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>6</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -2391,7 +2391,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>5</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
@@ -2444,7 +2444,7 @@
     <BuildingType>Бизнес-центр</BuildingType>
     <Entrance>С улицы</Entrance>
     <Floor>6</Floor>
-    <Decoration>Офисная</Decoration>
+    <Decoration>Чистовая</Decoration>
     <ParkingType>Нет</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
