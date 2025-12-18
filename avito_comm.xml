@@ -124,63 +124,6 @@
     <ParkingType>В здании</ParkingType>
     <PropertyRights>Собственник</PropertyRights>
     <TransactionType>Продажа</TransactionType>
-    <Id>8aab1137d490066541e22dda68aaf84cd7e17dba</Id>
-    <ManagerName>Менеджер</ManagerName>
-    <ContactPhone>78122209778</ContactPhone>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Address>РФ, СПб, внутригородское муниципальное образование города федерального значения Санкт-Петербурга поселок Шушары, Старорусский проспект, дом 1, строение 1</Address>
-    <Latitude>59.810070</Latitude>
-    <Longitude>30.356589</Longitude>
-    <Description>Предлагаем вам уникальное коммерческое помещение на первом этаже свободного назначения в новом жилом комплексе «Аквилон All in 3.0» в Шушарах. 
-
-Нежилое помещение с размещается на первом этаже. Благодаря этому в нем можно разместить кафе или пекарню, магазины или детские развивающие центры, бытовые сервисы, а также салоны красоты.
-
-Описание объекта
-
-- Класс ЖК: комфорт
-- Сдача в эксплуатацию в 4 квартале 2025 года.
-- В комплексе запланировано 812 квартир.
-
-Инженерная подготовка
-
-- Полная разводка отопления, установленные радиаторы и все необходимые приборы учета для вашего комфорта.
-- Оборудованы системы водоснабжения для бесперебойной работы вашего бизнеса.
-- Современная система противопожарной защиты, обеспечивающая безопасность.
-- Установлены воздуховоды вытяжной вентиляции, что создаст комфортные условия для работников и клиентов.
-
-
-Локация
-
-Шушары – локация развивающаяся, объекты инфраструктуры появляются здесь с завидной регулярностью. 
-
-В данном районе высокая плотность застройки - коммерческие помещения востребованы. 
-
-Напротив ЖК будет остановка трамвайной сети Славянка, которая должна соединить станцию метро «Купчино» во Фрунзенском районе с посёлком Шушары.
-
-Не упустите шанс инвестировать в перспективное будущее! Оперативные показы по запросу. Звоните!</Description>
-    <OperationType>Продам</OperationType>
-    <Price>20256480</Price>
-    <Square>99.63</Square>
-    <Images>
-      <Image url="https://ai.allio.agency/img/bb8d/dcb640f263098cea955a2f8bd337f74a.jpg?8d336b2a22e837b74c3bace2b2f6ecca" />
-      <Image url="https://ai.allio.agency/img/f551/927d7c1e3237aeea7f6fc1c415ca863c.jpg?f22e80fda5c68603bbfc68e2d44de2e3" />
-      <Image url="https://ai.allio.agency/img/f551/de1807b7ec5755cdda6b40cc3fee38c2.png?4cc0d2fcec98d07a2d9f01cf52b4135d" />
-      <Image url="https://ai.allio.agency/img/f551/9c860961b95cdf59d141122029ffadbd.png?4d7a5d96232b988ea85d052246abcf25" />
-      <Image url="https://ai.allio.agency/img/f551/39953c4387c93eb1dd10ed013ccbf072.jpg?6db16ef99c841ceaf5ed1357c91ac10c" />
-      <Image url="https://ai.allio.agency/img/f551/a4203835f19e5297a3138fb816967df9.jpg?a5d0ed83803d00a13c5ab397f9dfcd8b" />
-    </Images>
-    <VideoURL>https://www.youtube.com/watch?v=0IbvKYk0hnU</VideoURL>
-  </Ad>
-  <Ad>
-    <Category>Коммерческая недвижимость</Category>
-    <ObjectType>Торговое помещение</ObjectType>
-    <BuildingType>Жилой дом</BuildingType>
-    <Entrance>С улицы</Entrance>
-    <Floor>1</Floor>
-    <Decoration>Без отделки</Decoration>
-    <ParkingType>В здании</ParkingType>
-    <PropertyRights>Собственник</PropertyRights>
-    <TransactionType>Продажа</TransactionType>
     <Id>e4f673bf965994e8eb4a390291f19558ea2d9435</Id>
     <ManagerName>Менеджер</ManagerName>
     <ContactPhone>78122209778</ContactPhone>
@@ -398,8 +341,6 @@
     <Square>100.80</Square>
     <Images>
       <Image url="https://ai.allio.agency/img/bb8d/2ab6b45d82fe83b335863fbdd838c76f.png?76a4861ed072dff7a24b3bf4ece22ef0" />
-      <Image url="https://ai.allio.agency/img/f551/744ed0050ad6a0fc9949b83806488b71.jpg?0abc95550c3b33ee5f03aa658ce68178" />
-      <Image url="https://ai.allio.agency/img/f551/ac4ea688611efdc19fb898316fbb179c.jpg?f228b5bce70247d90293185cd9447205" />
       <Image url="https://ai.allio.agency/img/f551/1f264e9328d078266ea7a15f2224bd48.jpg?ae071223701b500ceb421905944556c9" />
       <Image url="https://ai.allio.agency/img/f551/29a17fcb9fce4f28ac18576deb02d95d.jpg?82adfac77162c6e93e62348764777acc" />
       <Image url="https://ai.allio.agency/img/f551/63c3ca963be11c9cff2a3559213edcd9.jpg?a4bb0dec4d098db96de1505d721310a0" />
@@ -459,8 +400,6 @@
     <Square>98.90</Square>
     <Images>
       <Image url="https://ai.allio.agency/img/bb8d/644909b51255bb115d1a8a4afcb92bf8.png?97a8d9d326923a862bde696172afb482" />
-      <Image url="https://ai.allio.agency/img/f551/744ed0050ad6a0fc9949b83806488b71.jpg?0abc95550c3b33ee5f03aa658ce68178" />
-      <Image url="https://ai.allio.agency/img/f551/ac4ea688611efdc19fb898316fbb179c.jpg?f228b5bce70247d90293185cd9447205" />
       <Image url="https://ai.allio.agency/img/f551/1f264e9328d078266ea7a15f2224bd48.jpg?ae071223701b500ceb421905944556c9" />
       <Image url="https://ai.allio.agency/img/f551/29a17fcb9fce4f28ac18576deb02d95d.jpg?82adfac77162c6e93e62348764777acc" />
       <Image url="https://ai.allio.agency/img/f551/63c3ca963be11c9cff2a3559213edcd9.jpg?a4bb0dec4d098db96de1505d721310a0" />
@@ -520,8 +459,6 @@
     <Square>91.30</Square>
     <Images>
       <Image url="https://ai.allio.agency/img/bb8d/2e42398ef81733ca16abd162358007b1.png?f82947ea26d2ebe06572e0d13917fb9c" />
-      <Image url="https://ai.allio.agency/img/f551/744ed0050ad6a0fc9949b83806488b71.jpg?0abc95550c3b33ee5f03aa658ce68178" />
-      <Image url="https://ai.allio.agency/img/f551/ac4ea688611efdc19fb898316fbb179c.jpg?f228b5bce70247d90293185cd9447205" />
       <Image url="https://ai.allio.agency/img/f551/1f264e9328d078266ea7a15f2224bd48.jpg?ae071223701b500ceb421905944556c9" />
       <Image url="https://ai.allio.agency/img/f551/29a17fcb9fce4f28ac18576deb02d95d.jpg?82adfac77162c6e93e62348764777acc" />
       <Image url="https://ai.allio.agency/img/f551/63c3ca963be11c9cff2a3559213edcd9.jpg?a4bb0dec4d098db96de1505d721310a0" />
@@ -581,8 +518,6 @@
     <Square>74.00</Square>
     <Images>
       <Image url="https://ai.allio.agency/img/bb8d/694f06fd0aac4b26d2aab4c2fb23e423.png?38d1a0bc133e15411a407c8dff7c9fdb" />
-      <Image url="https://ai.allio.agency/img/f551/744ed0050ad6a0fc9949b83806488b71.jpg?0abc95550c3b33ee5f03aa658ce68178" />
-      <Image url="https://ai.allio.agency/img/f551/ac4ea688611efdc19fb898316fbb179c.jpg?f228b5bce70247d90293185cd9447205" />
       <Image url="https://ai.allio.agency/img/f551/1f264e9328d078266ea7a15f2224bd48.jpg?ae071223701b500ceb421905944556c9" />
       <Image url="https://ai.allio.agency/img/f551/29a17fcb9fce4f28ac18576deb02d95d.jpg?82adfac77162c6e93e62348764777acc" />
       <Image url="https://ai.allio.agency/img/f551/63c3ca963be11c9cff2a3559213edcd9.jpg?a4bb0dec4d098db96de1505d721310a0" />
@@ -642,8 +577,6 @@
     <Square>104.80</Square>
     <Images>
       <Image url="https://ai.allio.agency/img/bb8d/c80ead3008da94f029cd389b0ea62a77.png?28357e941faa4915e264d18d04cff77f" />
-      <Image url="https://ai.allio.agency/img/f551/744ed0050ad6a0fc9949b83806488b71.jpg?0abc95550c3b33ee5f03aa658ce68178" />
-      <Image url="https://ai.allio.agency/img/f551/ac4ea688611efdc19fb898316fbb179c.jpg?f228b5bce70247d90293185cd9447205" />
       <Image url="https://ai.allio.agency/img/f551/1f264e9328d078266ea7a15f2224bd48.jpg?ae071223701b500ceb421905944556c9" />
       <Image url="https://ai.allio.agency/img/f551/29a17fcb9fce4f28ac18576deb02d95d.jpg?82adfac77162c6e93e62348764777acc" />
       <Image url="https://ai.allio.agency/img/f551/63c3ca963be11c9cff2a3559213edcd9.jpg?a4bb0dec4d098db96de1505d721310a0" />
@@ -703,8 +636,6 @@
     <Square>71.00</Square>
     <Images>
       <Image url="https://ai.allio.agency/img/bb8d/45bd1b1a6029d70c3ea7e66551bf4767.png?55ebdc41d586b8c9cb869e388b4738d8" />
-      <Image url="https://ai.allio.agency/img/f551/744ed0050ad6a0fc9949b83806488b71.jpg?0abc95550c3b33ee5f03aa658ce68178" />
-      <Image url="https://ai.allio.agency/img/f551/ac4ea688611efdc19fb898316fbb179c.jpg?f228b5bce70247d90293185cd9447205" />
       <Image url="https://ai.allio.agency/img/f551/1f264e9328d078266ea7a15f2224bd48.jpg?ae071223701b500ceb421905944556c9" />
       <Image url="https://ai.allio.agency/img/f551/29a17fcb9fce4f28ac18576deb02d95d.jpg?82adfac77162c6e93e62348764777acc" />
       <Image url="https://ai.allio.agency/img/f551/63c3ca963be11c9cff2a3559213edcd9.jpg?a4bb0dec4d098db96de1505d721310a0" />
@@ -764,8 +695,6 @@
     <Square>475.70</Square>
     <Images>
       <Image url="https://ai.allio.agency/img/bb8d/b03bf5d5051dc22ef9352061ef2ea79d.png?dcf8c7846d3abe4a729885ace5bcb3fc" />
-      <Image url="https://ai.allio.agency/img/f551/744ed0050ad6a0fc9949b83806488b71.jpg?0abc95550c3b33ee5f03aa658ce68178" />
-      <Image url="https://ai.allio.agency/img/f551/ac4ea688611efdc19fb898316fbb179c.jpg?f228b5bce70247d90293185cd9447205" />
       <Image url="https://ai.allio.agency/img/f551/1f264e9328d078266ea7a15f2224bd48.jpg?ae071223701b500ceb421905944556c9" />
       <Image url="https://ai.allio.agency/img/f551/29a17fcb9fce4f28ac18576deb02d95d.jpg?82adfac77162c6e93e62348764777acc" />
       <Image url="https://ai.allio.agency/img/f551/63c3ca963be11c9cff2a3559213edcd9.jpg?a4bb0dec4d098db96de1505d721310a0" />
@@ -984,9 +913,7 @@
     <ManagerName>Менеджер</ManagerName>
     <ContactPhone>78122209778</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Address>Ленинградская область, Всеволожский муниципальный район, Заневское городское поcеление (кадастровый номер земельного участка № 47:07:1044001:82044)</Address>
-    <Latitude>59.911171</Latitude>
-    <Longitude>30.536567</Longitude>
+    <Address>3.3, деревня Новосергиевка, Заневское городское поселение, Всеволожский район, Ленинградская область</Address>
     <Description>Коммерческое помещение в новом ЖК Аквилон RekaPark, метро Улица Дыбенко.
 
 -Первый этаж
@@ -1033,9 +960,7 @@
     <ManagerName>Менеджер</ManagerName>
     <ContactPhone>78122209778</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Address>Ленинградская область, Всеволожский муниципальный район, Заневское городское поcеление (кадастровый номер земельного участка № 47:07:1044001:82044)</Address>
-    <Latitude>59.911171</Latitude>
-    <Longitude>30.536567</Longitude>
+    <Address>3.3, деревня Новосергиевка, Заневское городское поселение, Всеволожский район, Ленинградская область</Address>
     <Description>Коммерческое помещение в новом ЖК Аквилон RekaPark, метро Улица Дыбенко.
 
 -Первый этаж
@@ -1082,9 +1007,7 @@
     <ManagerName>Менеджер</ManagerName>
     <ContactPhone>78122209778</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Address>Ленинградская область, Всеволожский муниципальный район, Заневское городское поcеление (кадастровый номер земельного участка № 47:07:1044001:82044)</Address>
-    <Latitude>59.911171</Latitude>
-    <Longitude>30.536567</Longitude>
+    <Address>3.3, деревня Новосергиевка, Заневское городское поселение, Всеволожский район, Ленинградская область</Address>
     <Description>Коммерческое помещение в новом ЖК Аквилон RekaPark, метро Улица Дыбенко.
 
 -Первый этаж
@@ -1180,9 +1103,7 @@
     <ManagerName>Менеджер</ManagerName>
     <ContactPhone>78122209778</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Address>Ленинградская область, Всеволожский муниципальный район, Заневское городское поcеление (кадастровый номер земельного участка № 47:07:1044001:82044)</Address>
-    <Latitude>59.911171</Latitude>
-    <Longitude>30.536567</Longitude>
+    <Address>3.3, деревня Новосергиевка, Заневское городское поселение, Всеволожский район, Ленинградская область</Address>
     <Description>Коммерческое помещение в новом ЖК Аквилон RekaPark, метро Улица Дыбенко.
 
 -Первый этаж
@@ -1229,9 +1150,7 @@
     <ManagerName>Менеджер</ManagerName>
     <ContactPhone>78122209778</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Address>Ленинградская область, Всеволожский муниципальный район, Заневское городское поcеление (кадастровый номер земельного участка № 47:07:1044001:82044)</Address>
-    <Latitude>59.911171</Latitude>
-    <Longitude>30.536567</Longitude>
+    <Address>3.3, деревня Новосергиевка, Заневское городское поселение, Всеволожский район, Ленинградская область</Address>
     <Description>Коммерческое помещение в новом ЖК Аквилон RekaPark, метро Улица Дыбенко.
 
 -Первый этаж
@@ -1278,9 +1197,7 @@
     <ManagerName>Менеджер</ManagerName>
     <ContactPhone>78122209778</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Address>Ленинградская область, Всеволожский муниципальный район, Заневское городское поcеление (кадастровый номер земельного участка № 47:07:1044001:82044)</Address>
-    <Latitude>59.911171</Latitude>
-    <Longitude>30.536567</Longitude>
+    <Address>3.3, деревня Новосергиевка, Заневское городское поселение, Всеволожский район, Ленинградская область</Address>
     <Description>Коммерческое помещение в новом ЖК Аквилон RekaPark, метро Улица Дыбенко.
 
 -Первый этаж
@@ -1327,9 +1244,7 @@
     <ManagerName>Менеджер</ManagerName>
     <ContactPhone>78122209778</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Address>Ленинградская область, Всеволожский муниципальный район, Заневское городское поcеление (кадастровый номер земельного участка № 47:07:1044001:82044)</Address>
-    <Latitude>59.911171</Latitude>
-    <Longitude>30.536567</Longitude>
+    <Address>3.3, деревня Новосергиевка, Заневское городское поселение, Всеволожский район, Ленинградская область</Address>
     <Description>Коммерческое помещение в новом ЖК Аквилон RekaPark, метро Улица Дыбенко.
 
 -Первый этаж
@@ -1376,9 +1291,7 @@
     <ManagerName>Менеджер</ManagerName>
     <ContactPhone>78122209778</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Address>Ленинградская область, Всеволожский муниципальный район, Заневское городское поcеление (кадастровый номер земельного участка № 47:07:1044001:82044)</Address>
-    <Latitude>59.911171</Latitude>
-    <Longitude>30.536567</Longitude>
+    <Address>3.3, деревня Новосергиевка, Заневское городское поселение, Всеволожский район, Ленинградская область</Address>
     <Description>Коммерческое помещение в новом ЖК Аквилон RekaPark, метро Улица Дыбенко.
 
 -Первый этаж
@@ -2452,9 +2365,7 @@
     <ManagerName>Менеджер</ManagerName>
     <ContactPhone>78122209778</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Address>Ленинградская область, Всеволожский муниципальный район, уч. Янино-Восточный, кадастровый номер земельного участка 47:07:1039001:2133</Address>
-    <Latitude>59.94860350434441</Latitude>
-    <Longitude>30.5841966217777</Longitude>
+    <Address>Ленинградская область, Всеволожский муниципальный район, уч. Янино-Восточный, Мельничный переулок, 1к3</Address>
     <Description>Коммерческое помещение в новом ЖК Аквилон VERBA, метро Ладожская.
  
 -Первый этаж
@@ -2495,9 +2406,7 @@
     <ManagerName>Менеджер</ManagerName>
     <ContactPhone>78122209778</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Address>Ленинградская область, Всеволожский муниципальный район, уч. Янино-Восточный, кадастровый номер земельного участка 47:07:1039001:2133</Address>
-    <Latitude>59.94860350434441</Latitude>
-    <Longitude>30.5841966217777</Longitude>
+    <Address>Ленинградская область, Всеволожский муниципальный район, уч. Янино-Восточный, Мельничный переулок, 1к3</Address>
     <Description>Коммерческое помещение в новом ЖК Аквилон VERBA, метро Ладожская.
  
 -Первый этаж
@@ -2538,9 +2447,7 @@
     <ManagerName>Менеджер</ManagerName>
     <ContactPhone>78122209778</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Address>Ленинградская область, Всеволожский муниципальный район, уч. Янино-Восточный, кадастровый номер земельного участка 47:07:1039001:2133</Address>
-    <Latitude>59.94860350434441</Latitude>
-    <Longitude>30.5841966217777</Longitude>
+    <Address>Ленинградская область, Всеволожский муниципальный район, уч. Янино-Восточный, Мельничный переулок, 1к3</Address>
     <Description>Коммерческое помещение в новом ЖК Аквилон VERBA, метро Ладожская.
  
 -Первый этаж
@@ -2581,9 +2488,7 @@
     <ManagerName>Менеджер</ManagerName>
     <ContactPhone>78122209778</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Address>Ленинградская область, Всеволожский муниципальный район, уч. Янино-Восточный, кадастровый номер земельного участка 47:07:1039001:2133</Address>
-    <Latitude>59.94860350434441</Latitude>
-    <Longitude>30.5841966217777</Longitude>
+    <Address>Ленинградская область, Всеволожский муниципальный район, уч. Янино-Восточный, Мельничный переулок, 1к3</Address>
     <Description>Коммерческое помещение в новом ЖК Аквилон VERBA, метро Ладожская.
  
 -Первый этаж
@@ -2624,9 +2529,7 @@
     <ManagerName>Менеджер</ManagerName>
     <ContactPhone>78122209778</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Address>Ленинградская область, Всеволожский муниципальный район, уч. Янино-Восточный, кадастровый номер земельного участка 47:07:1039001:2133</Address>
-    <Latitude>59.94860350434441</Latitude>
-    <Longitude>30.5841966217777</Longitude>
+    <Address>Ленинградская область, Всеволожский муниципальный район, уч. Янино-Восточный, Мельничный переулок, 1к3</Address>
     <Description>Коммерческое помещение в новом ЖК Аквилон VERBA, метро Ладожская.
  
 -Первый этаж
@@ -2667,9 +2570,7 @@
     <ManagerName>Менеджер</ManagerName>
     <ContactPhone>78122209778</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Address>Ленинградская область, Всеволожский муниципальный район, уч. Янино-Восточный, кадастровый номер земельного участка 47:07:1039001:2133</Address>
-    <Latitude>59.94860350434441</Latitude>
-    <Longitude>30.5841966217777</Longitude>
+    <Address>Ленинградская область, Всеволожский муниципальный район, уч. Янино-Восточный, Мельничный переулок, 1к3</Address>
     <Description>Коммерческое помещение в новом ЖК Аквилон VERBA, метро Ладожская.
  
 -Первый этаж
@@ -2694,65 +2595,6 @@
       <Image url="https://ai.allio.agency/img/bb8d/494a361f39342d69f88cb44387def050.jpg?ef3bc85a34ab79f30fee2eb8d1c6fda1" />
       <Image url="https://ai.allio.agency/img/f551/d3b78649645d488f1485eeb5839e2552.jpg?f9b05b05daf62eabc046900d20793dff" />
       <Image url="https://ai.allio.agency/img/f551/88343bd394a39d3fdbf5f3f551cd8fd5.jpg?a0c99edd5fb539a3b3cab688c02fdbfc" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Category>Коммерческая недвижимость</Category>
-    <ObjectType>Торговое помещение</ObjectType>
-    <BuildingType>Жилой дом</BuildingType>
-    <Entrance>Со двора</Entrance>
-    <Floor>1</Floor>
-    <Decoration>Без отделки</Decoration>
-    <ParkingType>Нет</ParkingType>
-    <PropertyRights>Собственник</PropertyRights>
-    <TransactionType>Продажа</TransactionType>
-    <Id>cd0bfdbdc0c96808a127570e62fe37f7e01e749e</Id>
-    <ManagerName>Менеджер</ManagerName>
-    <ContactPhone>78122209778</ContactPhone>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Address>Ленинградская область, Всеволожский район, Заневское сельское поселение, д.Янино-1</Address>
-    <Latitude>59.945292</Latitude>
-    <Longitude>30.550867</Longitude>
-    <Description>Предлагаем вашему вниманию уникальное коммерческое помещение на первом этаже свободного назначения в современном жилом комплексе «Аквилон ЯНИНО». 
-К приобретению доступны лоты во втором корпусе площадью от 51 до 129 м². В них можно разместить кафе или пекарню, магазины или детские развивающие центры, бытовые сервисы, а также салоны красоты. 
-
-Описание объекта
-- Класс ЖК: комфорт
-- Сдача в эксплуатацию в 4 квартале 2026 года.
-- «Аквилон ЯНИНО» включает 2 жилых корпуса общей площадью порядка 66 тыс. м². 
-
-Характеристика помещений
-
--  Есть помещения с выходом как на одну, так и на две стороны. 
--  Потолки высотой 3,75 метра предоставляют дополнительное пространство и комфорт потенциальным арендаторам и собственникам бизнеса, а также позволяют установить внутри помещения высокие стеллажи, расширив ассортимент товара на квадратный метр. 
--  Индивидуальный вентиляционный канал для обеспечения комфортного микроклимата.
-- Отделка Shell&amp;Core, что позволяет вам адаптировать пространство под ваши нужды.
-- Отдельный вход с безбарьерным доступом, что обеспечивает удобство для клиентов.
-- Витринные окна и свето-прозрачные входные двери, придающие помещению современный и привлекательный вид.
-
-Инженерная подготовка
-
-- Полная разводка отопления, радиаторы, приборы учета и запорная арматура для вашего удобства.
-- Оборудованные системы водоснабжения, обеспечивающие бесперебойную работу вашего бизнеса.
-- Современная система противопожарной защиты для вашей безопасности.
-- Эффективные воздуховоды вытяжной вентиляции, создающие комфортные условия для работы.
-
-Локация
-
-В Янино высокая плотность застройки, сформировавшаяся инфраструктура делают это место идеальным для открытия вашего бизнеса.
-
-
-Большое количество застройщиков уже реализовали свои проекты, что подтверждает высокий приоритет самой локации.
-
-В шаговой доступности от ЖК расположены остановки общественного транспорта, ТРЦ, гипермаркеты, коммерческая и социальная инфраструктура.
-
-Не упустите свою возможность! Оперативные показы</Description>
-    <OperationType>Продам</OperationType>
-    <Price>11380218</Price>
-    <Square>56.02</Square>
-    <Images>
-      <Image url="https://ai.allio.agency/img/bb8d/d8bc1dd3b18227a4df75ea8fe220cc3f.jpg?c2c0eb4172e2ad2df70a16a91ae1fc37" />
-      <Image url="https://ai.allio.agency/img/f551/d5f3432d37697ea24cc1ed3b2d1aacfb.jpg?3b4b4c3f70655ff07f3c47444c12d9da" />
     </Images>
   </Ad>
   <Ad>

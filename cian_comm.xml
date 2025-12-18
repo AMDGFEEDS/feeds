@@ -242,119 +242,6 @@
       </House>
     </JKSchema>
     <FloorNumber>1</FloorNumber>
-    <ExternalId>8aab1137d490066541e22dda68aaf84cd7e17dba</ExternalId>
-    <Description>Предлагаем вам уникальное коммерческое помещение на первом этаже свободного назначения в новом жилом комплексе «Аквилон All in 3.0» в Шушарах. 
-
-Нежилое помещение с размещается на первом этаже. Благодаря этому в нем можно разместить кафе или пекарню, магазины или детские развивающие центры, бытовые сервисы, а также салоны красоты.
-
-Описание объекта
-
-- Класс ЖК: комфорт
-- Сдача в эксплуатацию в 4 квартале 2025 года.
-- В комплексе запланировано 812 квартир.
-
-Инженерная подготовка
-
-- Полная разводка отопления, установленные радиаторы и все необходимые приборы учета для вашего комфорта.
-- Оборудованы системы водоснабжения для бесперебойной работы вашего бизнеса.
-- Современная система противопожарной защиты, обеспечивающая безопасность.
-- Установлены воздуховоды вытяжной вентиляции, что создаст комфортные условия для работников и клиентов.
-
-
-Локация
-
-Шушары – локация развивающаяся, объекты инфраструктуры появляются здесь с завидной регулярностью. 
-
-В данном районе высокая плотность застройки - коммерческие помещения востребованы. 
-
-Напротив ЖК будет остановка трамвайной сети Славянка, которая должна соединить станцию метро «Купчино» во Фрунзенском районе с посёлком Шушары.
-
-Не упустите шанс инвестировать в перспективное будущее! Оперативные показы по запросу. Звоните!</Description>
-    <Address>РФ, СПб, внутригородское муниципальное образование города федерального значения Санкт-Петербурга поселок Шушары, Старорусский проспект, дом 1, строение 1</Address>
-    <Coordinates>
-      <Lat>59.810070</Lat>
-      <Lng>30.356589</Lng>
-    </Coordinates>
-    <Phones>
-      <PhoneSchema>
-        <CountryCode>7</CountryCode>
-        <Number>8124217252</Number>
-      </PhoneSchema>
-    </Phones>
-    <TotalArea>99.63</TotalArea>
-    <LayoutPhoto>
-      <FullUrl>https://ai.allio.agency/img/bb8d/dcb640f263098cea955a2f8bd337f74a.jpg?8d336b2a22e837b74c3bace2b2f6ecca</FullUrl>
-      <IsDefault>0</IsDefault>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/927d7c1e3237aeea7f6fc1c415ca863c.jpg?f22e80fda5c68603bbfc68e2d44de2e3</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/de1807b7ec5755cdda6b40cc3fee38c2.png?4cc0d2fcec98d07a2d9f01cf52b4135d</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/9c860961b95cdf59d141122029ffadbd.png?4d7a5d96232b988ea85d052246abcf25</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/39953c4387c93eb1dd10ed013ccbf072.jpg?6db16ef99c841ceaf5ed1357c91ac10c</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/a4203835f19e5297a3138fb816967df9.jpg?a5d0ed83803d00a13c5ab397f9dfcd8b</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-    </Photos>
-    <Videos>
-      <VideoSchema>
-        <Url>https://www.youtube.com/watch?v=0IbvKYk0hnU</Url>
-      </VideoSchema>
-    </Videos>
-    <Building>
-      <FloorsCount>13</FloorsCount>
-      <MaterialType>monolithBrick</MaterialType>
-      <CeilingHeight>3.30</CeilingHeight>
-      <Deadline>
-        <Quarter>fourth</Quarter>
-        <Year>2025</Year>
-        <IsComplete>0</IsComplete>
-      </Deadline>
-    </Building>
-    <PublishTerms>
-      <Terms>
-        <PublishTermSchema>
-          <Services>
-            <ServicesEnum>paid</ServicesEnum>
-          </Services>
-        </PublishTermSchema>
-      </Terms>
-    </PublishTerms>
-    <BargainTerms>
-      <VatType>included</VatType>
-      <Price>20256480</Price>
-      <Currency>rur</Currency>
-      <MortgageAllowed>1</MortgageAllowed>
-      <SaleType>fz214</SaleType>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>shoppingAreaSale</Category>
-    <JKSchema>
-      <Id>4238362</Id>
-      <Name>Аквилон All In 3.0</Name>
-      <House>
-        <Id>8293833</Id>
-        <Name>Аквилон All In 3.0</Name>
-        <Flat>
-          <FlatNumber>0</FlatNumber>
-          <FlatType>Коммерческая</FlatType>
-        </Flat>
-      </House>
-    </JKSchema>
-    <FloorNumber>1</FloorNumber>
     <ExternalId>e4f673bf965994e8eb4a390291f19558ea2d9435</ExternalId>
     <Description>Предлагаем вам уникальное коммерческое помещение на первом этаже свободного назначения в новом жилом комплексе «Аквилон All in 3.0» в Шушарах. 
 
@@ -747,14 +634,6 @@
     </LayoutPhoto>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/744ed0050ad6a0fc9949b83806488b71.jpg?0abc95550c3b33ee5f03aa658ce68178</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/ac4ea688611efdc19fb898316fbb179c.jpg?f228b5bce70247d90293185cd9447205</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
         <FullUrl>https://ai.allio.agency/img/f551/1f264e9328d078266ea7a15f2224bd48.jpg?ae071223701b500ceb421905944556c9</FullUrl>
         <IsDefault>0</IsDefault>
       </PhotoSchema>
@@ -871,14 +750,6 @@
       <IsDefault>0</IsDefault>
     </LayoutPhoto>
     <Photos>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/744ed0050ad6a0fc9949b83806488b71.jpg?0abc95550c3b33ee5f03aa658ce68178</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/ac4ea688611efdc19fb898316fbb179c.jpg?f228b5bce70247d90293185cd9447205</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://ai.allio.agency/img/f551/1f264e9328d078266ea7a15f2224bd48.jpg?ae071223701b500ceb421905944556c9</FullUrl>
         <IsDefault>0</IsDefault>
@@ -997,14 +868,6 @@
     </LayoutPhoto>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/744ed0050ad6a0fc9949b83806488b71.jpg?0abc95550c3b33ee5f03aa658ce68178</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/ac4ea688611efdc19fb898316fbb179c.jpg?f228b5bce70247d90293185cd9447205</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
         <FullUrl>https://ai.allio.agency/img/f551/1f264e9328d078266ea7a15f2224bd48.jpg?ae071223701b500ceb421905944556c9</FullUrl>
         <IsDefault>0</IsDefault>
       </PhotoSchema>
@@ -1121,14 +984,6 @@
       <IsDefault>0</IsDefault>
     </LayoutPhoto>
     <Photos>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/744ed0050ad6a0fc9949b83806488b71.jpg?0abc95550c3b33ee5f03aa658ce68178</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/ac4ea688611efdc19fb898316fbb179c.jpg?f228b5bce70247d90293185cd9447205</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://ai.allio.agency/img/f551/1f264e9328d078266ea7a15f2224bd48.jpg?ae071223701b500ceb421905944556c9</FullUrl>
         <IsDefault>0</IsDefault>
@@ -1247,14 +1102,6 @@
     </LayoutPhoto>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/744ed0050ad6a0fc9949b83806488b71.jpg?0abc95550c3b33ee5f03aa658ce68178</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/ac4ea688611efdc19fb898316fbb179c.jpg?f228b5bce70247d90293185cd9447205</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
         <FullUrl>https://ai.allio.agency/img/f551/1f264e9328d078266ea7a15f2224bd48.jpg?ae071223701b500ceb421905944556c9</FullUrl>
         <IsDefault>0</IsDefault>
       </PhotoSchema>
@@ -1372,14 +1219,6 @@
     </LayoutPhoto>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/744ed0050ad6a0fc9949b83806488b71.jpg?0abc95550c3b33ee5f03aa658ce68178</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/ac4ea688611efdc19fb898316fbb179c.jpg?f228b5bce70247d90293185cd9447205</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
         <FullUrl>https://ai.allio.agency/img/f551/1f264e9328d078266ea7a15f2224bd48.jpg?ae071223701b500ceb421905944556c9</FullUrl>
         <IsDefault>0</IsDefault>
       </PhotoSchema>
@@ -1496,14 +1335,6 @@
       <IsDefault>0</IsDefault>
     </LayoutPhoto>
     <Photos>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/744ed0050ad6a0fc9949b83806488b71.jpg?0abc95550c3b33ee5f03aa658ce68178</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/ac4ea688611efdc19fb898316fbb179c.jpg?f228b5bce70247d90293185cd9447205</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://ai.allio.agency/img/f551/1f264e9328d078266ea7a15f2224bd48.jpg?ae071223701b500ceb421905944556c9</FullUrl>
         <IsDefault>0</IsDefault>
@@ -5600,105 +5431,6 @@
     <BargainTerms>
       <VatType>included</VatType>
       <Price>21576691</Price>
-      <Currency>rur</Currency>
-      <MortgageAllowed>1</MortgageAllowed>
-      <SaleType>fz214</SaleType>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>shoppingAreaSale</Category>
-    <JKSchema>
-      <Id>4508621</Id>
-      <Name>Аквилон ЯНИНО</Name>
-      <House>
-        <Id>8788455</Id>
-        <Name>Аквилон ЯНИНО Г корпус</Name>
-        <Flat>
-          <FlatNumber>1</FlatNumber>
-          <FlatType>Коммерческая</FlatType>
-        </Flat>
-      </House>
-    </JKSchema>
-    <FloorNumber>1</FloorNumber>
-    <ExternalId>cd0bfdbdc0c96808a127570e62fe37f7e01e749e</ExternalId>
-    <Description>Предлагаем вашему вниманию уникальное коммерческое помещение на первом этаже свободного назначения в современном жилом комплексе «Аквилон ЯНИНО». 
-К приобретению доступны лоты во втором корпусе площадью от 51 до 129 м². В них можно разместить кафе или пекарню, магазины или детские развивающие центры, бытовые сервисы, а также салоны красоты. 
-
-Описание объекта
-- Класс ЖК: комфорт
-- Сдача в эксплуатацию в 4 квартале 2026 года.
-- «Аквилон ЯНИНО» включает 2 жилых корпуса общей площадью порядка 66 тыс. м². 
-
-Характеристика помещений
-
--  Есть помещения с выходом как на одну, так и на две стороны. 
--  Потолки высотой 3,75 метра предоставляют дополнительное пространство и комфорт потенциальным арендаторам и собственникам бизнеса, а также позволяют установить внутри помещения высокие стеллажи, расширив ассортимент товара на квадратный метр. 
--  Индивидуальный вентиляционный канал для обеспечения комфортного микроклимата.
-- Отделка Shell&amp;Core, что позволяет вам адаптировать пространство под ваши нужды.
-- Отдельный вход с безбарьерным доступом, что обеспечивает удобство для клиентов.
-- Витринные окна и свето-прозрачные входные двери, придающие помещению современный и привлекательный вид.
-
-Инженерная подготовка
-
-- Полная разводка отопления, радиаторы, приборы учета и запорная арматура для вашего удобства.
-- Оборудованные системы водоснабжения, обеспечивающие бесперебойную работу вашего бизнеса.
-- Современная система противопожарной защиты для вашей безопасности.
-- Эффективные воздуховоды вытяжной вентиляции, создающие комфортные условия для работы.
-
-Локация
-
-В Янино высокая плотность застройки, сформировавшаяся инфраструктура делают это место идеальным для открытия вашего бизнеса.
-
-
-Большое количество застройщиков уже реализовали свои проекты, что подтверждает высокий приоритет самой локации.
-
-В шаговой доступности от ЖК расположены остановки общественного транспорта, ТРЦ, гипермаркеты, коммерческая и социальная инфраструктура.
-
-Не упустите свою возможность! Оперативные показы</Description>
-    <Address>Ленинградская область, Всеволожский район, Заневское сельское поселение, д.Янино-1</Address>
-    <Coordinates>
-      <Lat>59.945292</Lat>
-      <Lng>30.550867</Lng>
-    </Coordinates>
-    <Phones>
-      <PhoneSchema>
-        <CountryCode>7</CountryCode>
-        <Number>8124217252</Number>
-      </PhoneSchema>
-    </Phones>
-    <TotalArea>56.02</TotalArea>
-    <LayoutPhoto>
-      <FullUrl>https://ai.allio.agency/img/bb8d/d8bc1dd3b18227a4df75ea8fe220cc3f.jpg?c2c0eb4172e2ad2df70a16a91ae1fc37</FullUrl>
-      <IsDefault>0</IsDefault>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/d5f3432d37697ea24cc1ed3b2d1aacfb.jpg?3b4b4c3f70655ff07f3c47444c12d9da</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-    </Photos>
-    <Building>
-      <FloorsCount>12</FloorsCount>
-      <MaterialType>monolith</MaterialType>
-      <CeilingHeight>3.75</CeilingHeight>
-      <Deadline>
-        <Quarter>fourth</Quarter>
-        <Year>2026</Year>
-        <IsComplete>0</IsComplete>
-      </Deadline>
-    </Building>
-    <PublishTerms>
-      <Terms>
-        <PublishTermSchema>
-          <Services>
-            <ServicesEnum>paid</ServicesEnum>
-          </Services>
-        </PublishTermSchema>
-      </Terms>
-    </PublishTerms>
-    <BargainTerms>
-      <VatType>included</VatType>
-      <Price>11380218</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
