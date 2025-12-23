@@ -105,7 +105,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>25650877</Price>
+      <Price>27963075</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -215,7 +215,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>20271958</Price>
+      <Price>21995103</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -325,7 +325,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>15441526</Price>
+      <Price>16692435</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -435,7 +435,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>35206363</Price>
+      <Price>38749523</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -545,7 +545,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>19319394</Price>
+      <Price>20930762</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -655,7 +655,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>25864656</Price>
+      <Price>28176711</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -765,117 +765,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>23126000</Price>
-      <Currency>rur</Currency>
-      <MortgageAllowed>1</MortgageAllowed>
-      <SaleType>fz214</SaleType>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>officeSale</Category>
-    <JKSchema>
-      <Id>2467216</Id>
-      <Name>БЦ INSIDE</Name>
-      <House>
-        <Id>2467484</Id>
-        <Name>БЦ INSIDE</Name>
-        <Flat>
-          <FlatNumber>0</FlatNumber>
-          <FlatType>Офис</FlatType>
-        </Flat>
-      </House>
-    </JKSchema>
-    <FloorNumber>5</FloorNumber>
-    <ExternalId>29204d706420177bd6af3e8e88d8e2f178a601f8</ExternalId>
-    <Description>INSIDE - бизнес-центр, расположенный на Васильевском острове в пятистах метрах от Финского залива.
-
-Общий метраж: 4 514 м²
-Офисные помещения с 5 по 8 этажи
-
-Офисные помещения сдаются в формате Shell&amp;Core, что позволяет создать уникальное планировочное решение и адаптировать пространство под потребности бизнеса. 
-
-Видовые офисы с панорамными окнами и видом на залив
-Возможность объединять помещения
-Система кондиционирования в каждом офисе
-Современные коммуникации и инженерия 
-Скоростные бесшумные лифты с выходом на паркинг
-Дополнительная шумоизоляция
-Коммерческие помещения на 1 этаже
-Потолки высотой 3,3 метра
-
-Транспортная доступность:
-15 минут до Невского проспекта
-7 минут до ЗСД
-12 минут до метро «Приморская»
-30 минут до Курортного района</Description>
-    <Address>г. Санкт-Петербург, Невская губа, участок 24, (западнее
-Васильевского острова, квартал 21)</Address>
-    <Coordinates>
-      <Lat>59.932868187064734</Lat>
-      <Lng>30.20361110928592</Lng>
-    </Coordinates>
-    <Phones>
-      <PhoneSchema>
-        <CountryCode>7</CountryCode>
-        <Number>8126607021</Number>
-      </PhoneSchema>
-    </Phones>
-    <TotalArea>79.60</TotalArea>
-    <LayoutPhoto>
-      <FullUrl>https://ai.allio.agency/img/bb8d/714d0846731660db76be3d6b17b58a5c.jpg?023020085d9a0ab79aae0034301e6bed</FullUrl>
-      <IsDefault>0</IsDefault>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/2b96532c3cbcb7d0366b0ccfe1fad116.jpg?6e19d64197cf029d08cc63517df25f76</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/100898ae8b111924ec7ce51417c3ccc5.jpg?858d9edc2858da599f7e9f705150f603</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/cade67350fdec452a6907f35f742877b.jpg?8c9f04e8651216f9894d5e2eaf031ad2</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/9bb4aef47d610249d61fa0f4733abb6b.jpg?c75b14a931dd029afca690554340373f</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/780114474ba0f6c011168bd2cface2d3.jpg?2ce0f9a149cfe6c25168d915a1202da1</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/38fcfcba10b78da3fe0243b54e3f1fff.jpg?052ee9f52bca611883d261683d429f58</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/bc65a509c0fb3d0dee1aee1628781cda.jpg?e43c5353d5accefae84cab255ff9d324</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-    </Photos>
-    <Building>
-      <FloorsCount>8</FloorsCount>
-      <MaterialType>monolith</MaterialType>
-      <Deadline>
-        <Quarter>first</Quarter>
-        <Year>2024</Year>
-        <IsComplete>1</IsComplete>
-      </Deadline>
-    </Building>
-    <PublishTerms>
-      <Terms>
-        <PublishTermSchema>
-          <Services>
-            <ServicesEnum>paid</ServicesEnum>
-          </Services>
-        </PublishTermSchema>
-      </Terms>
-    </PublishTerms>
-    <BargainTerms>
-      <VatType>included</VatType>
-      <Price>20572799</Price>
+      <Price>25149189</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -985,7 +875,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>18243836</Price>
+      <Price>19762628</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -1095,117 +985,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>9571349</Price>
-      <Currency>rur</Currency>
-      <MortgageAllowed>1</MortgageAllowed>
-      <SaleType>fz214</SaleType>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>officeSale</Category>
-    <JKSchema>
-      <Id>2467216</Id>
-      <Name>БЦ INSIDE</Name>
-      <House>
-        <Id>2467484</Id>
-        <Name>БЦ INSIDE</Name>
-        <Flat>
-          <FlatNumber>0</FlatNumber>
-          <FlatType>Офис</FlatType>
-        </Flat>
-      </House>
-    </JKSchema>
-    <FloorNumber>5</FloorNumber>
-    <ExternalId>dbb71471ec89e2e8a851eadabff4c13857891442</ExternalId>
-    <Description>INSIDE - бизнес-центр, расположенный на Васильевском острове в пятистах метрах от Финского залива.
-
-Общий метраж: 4 514 м²
-Офисные помещения с 5 по 8 этажи
-
-Офисные помещения сдаются в формате Shell&amp;Core, что позволяет создать уникальное планировочное решение и адаптировать пространство под потребности бизнеса. 
-
-Видовые офисы с панорамными окнами и видом на залив
-Возможность объединять помещения
-Система кондиционирования в каждом офисе
-Современные коммуникации и инженерия 
-Скоростные бесшумные лифты с выходом на паркинг
-Дополнительная шумоизоляция
-Коммерческие помещения на 1 этаже
-Потолки высотой 3,3 метра
-
-Транспортная доступность:
-15 минут до Невского проспекта
-7 минут до ЗСД
-12 минут до метро «Приморская»
-30 минут до Курортного района</Description>
-    <Address>г. Санкт-Петербург, Невская губа, участок 24, (западнее
-Васильевского острова, квартал 21)</Address>
-    <Coordinates>
-      <Lat>59.932868187064734</Lat>
-      <Lng>30.20361110928592</Lng>
-    </Coordinates>
-    <Phones>
-      <PhoneSchema>
-        <CountryCode>7</CountryCode>
-        <Number>8126607021</Number>
-      </PhoneSchema>
-    </Phones>
-    <TotalArea>52.40</TotalArea>
-    <LayoutPhoto>
-      <FullUrl>https://ai.allio.agency/img/bb8d/e6bc5100a87f11c35a70c6eddb673c0d.jpg?bc1eb1ff592774e0407922dd3b24e7d1</FullUrl>
-      <IsDefault>0</IsDefault>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/2b96532c3cbcb7d0366b0ccfe1fad116.jpg?6e19d64197cf029d08cc63517df25f76</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/100898ae8b111924ec7ce51417c3ccc5.jpg?858d9edc2858da599f7e9f705150f603</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/cade67350fdec452a6907f35f742877b.jpg?8c9f04e8651216f9894d5e2eaf031ad2</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/9bb4aef47d610249d61fa0f4733abb6b.jpg?c75b14a931dd029afca690554340373f</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/780114474ba0f6c011168bd2cface2d3.jpg?2ce0f9a149cfe6c25168d915a1202da1</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/38fcfcba10b78da3fe0243b54e3f1fff.jpg?052ee9f52bca611883d261683d429f58</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/bc65a509c0fb3d0dee1aee1628781cda.jpg?e43c5353d5accefae84cab255ff9d324</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-    </Photos>
-    <Building>
-      <FloorsCount>8</FloorsCount>
-      <MaterialType>monolith</MaterialType>
-      <Deadline>
-        <Quarter>first</Quarter>
-        <Year>2024</Year>
-        <IsComplete>1</IsComplete>
-      </Deadline>
-    </Building>
-    <PublishTerms>
-      <Terms>
-        <PublishTermSchema>
-          <Services>
-            <ServicesEnum>paid</ServicesEnum>
-          </Services>
-        </PublishTermSchema>
-      </Terms>
-    </PublishTerms>
-    <BargainTerms>
-      <VatType>included</VatType>
-      <Price>14086993</Price>
+      <Price>10322614</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -1315,7 +1095,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>16658096</Price>
+      <Price>18055344</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -1425,7 +1205,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>7538010</Price>
+      <Price>8122842</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -1535,7 +1315,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>7062537</Price>
+      <Price>7605350</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -1645,7 +1425,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>25650877</Price>
+      <Price>27963075</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -1755,7 +1535,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>15441526</Price>
+      <Price>16692435</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -1865,117 +1645,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>35206363</Price>
-      <Currency>rur</Currency>
-      <MortgageAllowed>1</MortgageAllowed>
-      <SaleType>fz214</SaleType>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>officeSale</Category>
-    <JKSchema>
-      <Id>2467216</Id>
-      <Name>БЦ INSIDE</Name>
-      <House>
-        <Id>2467484</Id>
-        <Name>БЦ INSIDE</Name>
-        <Flat>
-          <FlatNumber>0</FlatNumber>
-          <FlatType>Офис</FlatType>
-        </Flat>
-      </House>
-    </JKSchema>
-    <FloorNumber>6</FloorNumber>
-    <ExternalId>83828d5356ba509b4182ae6f5b902a34d06d0db1</ExternalId>
-    <Description>INSIDE - бизнес-центр, расположенный на Васильевском острове в пятистах метрах от Финского залива.
-
-Общий метраж: 4 514 м²
-Офисные помещения с 5 по 8 этажи
-
-Офисные помещения сдаются в формате Shell&amp;Core, что позволяет создать уникальное планировочное решение и адаптировать пространство под потребности бизнеса. 
-
-Видовые офисы с панорамными окнами и видом на залив
-Возможность объединять помещения
-Система кондиционирования в каждом офисе
-Современные коммуникации и инженерия 
-Скоростные бесшумные лифты с выходом на паркинг
-Дополнительная шумоизоляция
-Коммерческие помещения на 1 этаже
-Потолки высотой 3,3 метра
-
-Транспортная доступность:
-15 минут до Невского проспекта
-7 минут до ЗСД
-12 минут до метро «Приморская»
-30 минут до Курортного района</Description>
-    <Address>г. Санкт-Петербург, Невская губа, участок 24, (западнее
-Васильевского острова, квартал 21)</Address>
-    <Coordinates>
-      <Lat>59.932868187064734</Lat>
-      <Lng>30.20361110928592</Lng>
-    </Coordinates>
-    <Phones>
-      <PhoneSchema>
-        <CountryCode>7</CountryCode>
-        <Number>8126607021</Number>
-      </PhoneSchema>
-    </Phones>
-    <TotalArea>73.40</TotalArea>
-    <LayoutPhoto>
-      <FullUrl>https://ai.allio.agency/img/bb8d/2910dd7bd2eb6ae865c5684293db59e3.jpg?626e4e137a0dc0950fc6b652299ef8df</FullUrl>
-      <IsDefault>0</IsDefault>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/2b96532c3cbcb7d0366b0ccfe1fad116.jpg?6e19d64197cf029d08cc63517df25f76</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/100898ae8b111924ec7ce51417c3ccc5.jpg?858d9edc2858da599f7e9f705150f603</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/cade67350fdec452a6907f35f742877b.jpg?8c9f04e8651216f9894d5e2eaf031ad2</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/9bb4aef47d610249d61fa0f4733abb6b.jpg?c75b14a931dd029afca690554340373f</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/780114474ba0f6c011168bd2cface2d3.jpg?2ce0f9a149cfe6c25168d915a1202da1</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/38fcfcba10b78da3fe0243b54e3f1fff.jpg?052ee9f52bca611883d261683d429f58</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/bc65a509c0fb3d0dee1aee1628781cda.jpg?e43c5353d5accefae84cab255ff9d324</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-    </Photos>
-    <Building>
-      <FloorsCount>8</FloorsCount>
-      <MaterialType>monolith</MaterialType>
-      <Deadline>
-        <Quarter>first</Quarter>
-        <Year>2024</Year>
-        <IsComplete>1</IsComplete>
-      </Deadline>
-    </Building>
-    <PublishTerms>
-      <Terms>
-        <PublishTermSchema>
-          <Services>
-            <ServicesEnum>paid</ServicesEnum>
-          </Services>
-        </PublishTermSchema>
-      </Terms>
-    </PublishTerms>
-    <BargainTerms>
-      <VatType>included</VatType>
-      <Price>19319394</Price>
+      <Price>38749523</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -2085,7 +1755,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>25864656</Price>
+      <Price>28176711</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -2195,117 +1865,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>23126000</Price>
-      <Currency>rur</Currency>
-      <MortgageAllowed>1</MortgageAllowed>
-      <SaleType>fz214</SaleType>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>officeSale</Category>
-    <JKSchema>
-      <Id>2467216</Id>
-      <Name>БЦ INSIDE</Name>
-      <House>
-        <Id>2467484</Id>
-        <Name>БЦ INSIDE</Name>
-        <Flat>
-          <FlatNumber>0</FlatNumber>
-          <FlatType>Офис</FlatType>
-        </Flat>
-      </House>
-    </JKSchema>
-    <FloorNumber>6</FloorNumber>
-    <ExternalId>82f8947e3b43f3ba2dce88c5b47819ea74981acb</ExternalId>
-    <Description>INSIDE - бизнес-центр, расположенный на Васильевском острове в пятистах метрах от Финского залива.
-
-Общий метраж: 4 514 м²
-Офисные помещения с 5 по 8 этажи
-
-Офисные помещения сдаются в формате Shell&amp;Core, что позволяет создать уникальное планировочное решение и адаптировать пространство под потребности бизнеса. 
-
-Видовые офисы с панорамными окнами и видом на залив
-Возможность объединять помещения
-Система кондиционирования в каждом офисе
-Современные коммуникации и инженерия 
-Скоростные бесшумные лифты с выходом на паркинг
-Дополнительная шумоизоляция
-Коммерческие помещения на 1 этаже
-Потолки высотой 3,3 метра
-
-Транспортная доступность:
-15 минут до Невского проспекта
-7 минут до ЗСД
-12 минут до метро «Приморская»
-30 минут до Курортного района</Description>
-    <Address>г. Санкт-Петербург, Невская губа, участок 24, (западнее
-Васильевского острова, квартал 21)</Address>
-    <Coordinates>
-      <Lat>59.932868187064734</Lat>
-      <Lng>30.20361110928592</Lng>
-    </Coordinates>
-    <Phones>
-      <PhoneSchema>
-        <CountryCode>7</CountryCode>
-        <Number>8126607021</Number>
-      </PhoneSchema>
-    </Phones>
-    <TotalArea>79.60</TotalArea>
-    <LayoutPhoto>
-      <FullUrl>https://ai.allio.agency/img/bb8d/98fa0ea52eb10003dfcd664733216e05.jpg?0c14c1b36e5d98cd3a58b1a63281b7ab</FullUrl>
-      <IsDefault>0</IsDefault>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/2b96532c3cbcb7d0366b0ccfe1fad116.jpg?6e19d64197cf029d08cc63517df25f76</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/100898ae8b111924ec7ce51417c3ccc5.jpg?858d9edc2858da599f7e9f705150f603</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/cade67350fdec452a6907f35f742877b.jpg?8c9f04e8651216f9894d5e2eaf031ad2</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/9bb4aef47d610249d61fa0f4733abb6b.jpg?c75b14a931dd029afca690554340373f</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/780114474ba0f6c011168bd2cface2d3.jpg?2ce0f9a149cfe6c25168d915a1202da1</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/38fcfcba10b78da3fe0243b54e3f1fff.jpg?052ee9f52bca611883d261683d429f58</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://ai.allio.agency/img/f551/bc65a509c0fb3d0dee1aee1628781cda.jpg?e43c5353d5accefae84cab255ff9d324</FullUrl>
-        <IsDefault>0</IsDefault>
-      </PhotoSchema>
-    </Photos>
-    <Building>
-      <FloorsCount>8</FloorsCount>
-      <MaterialType>monolith</MaterialType>
-      <Deadline>
-        <Quarter>first</Quarter>
-        <Year>2024</Year>
-        <IsComplete>1</IsComplete>
-      </Deadline>
-    </Building>
-    <PublishTerms>
-      <Terms>
-        <PublishTermSchema>
-          <Services>
-            <ServicesEnum>paid</ServicesEnum>
-          </Services>
-        </PublishTermSchema>
-      </Terms>
-    </PublishTerms>
-    <BargainTerms>
-      <VatType>included</VatType>
-      <Price>20572799</Price>
+      <Price>25149189</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -2415,7 +1975,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>18243836</Price>
+      <Price>19762628</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -2525,7 +2085,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>15347427</Price>
+      <Price>16581844</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -2635,7 +2195,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>8512517</Price>
+      <Price>9165950</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -2745,7 +2305,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>9669690</Price>
+      <Price>10419728</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -2855,7 +2415,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>14236333</Price>
+      <Price>15381140</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -2965,7 +2525,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>16839356</Price>
+      <Price>18234343</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -3075,7 +2635,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>7614687</Price>
+      <Price>8198563</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -5055,7 +4615,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>246390298</Price>
+      <Price>276711856</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -5165,7 +4725,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>247141077</Price>
+      <Price>277462779</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
@@ -5825,7 +5385,7 @@
     </PublishTerms>
     <BargainTerms>
       <VatType>included</VatType>
-      <Price>904468582</Price>
+      <Price>957531436</Price>
       <Currency>rur</Currency>
       <MortgageAllowed>1</MortgageAllowed>
       <SaleType>fz214</SaleType>
